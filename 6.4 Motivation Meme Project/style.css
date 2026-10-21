@@ -1,0 +1,15 @@
+
+body{
+    background-color: black;
+}
+#image{
+    width: 100%;
+    border: 5px solid white;
+}
+#poster{
+    color: white ;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    background-color: black;
+}
